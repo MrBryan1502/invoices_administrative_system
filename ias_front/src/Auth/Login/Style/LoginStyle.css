@@ -1,9 +1,0 @@
-form {
-  width: 50vw;
-}
-
-@media (max-width: 700px) {
-  form {
-    width: 95vw;
-  }
-}

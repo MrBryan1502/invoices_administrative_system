@@ -1,3 +1,0 @@
-export const AUTH_ACTION_TYPE = {
-  SET_LOGGEDIN_VALUE: 'SET_LOGGEDIN_VALUE'
-} as const
